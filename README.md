@@ -1,1 +1,2 @@
 # Botnet-Detection-using-Traditional-Machine-learning-Models
+In traditional ML, participants upload their data by connecting to a central server. The cloud server, which does all computational activities to train the data, receives local data from each participant and uploads it to the cloud server. Participants in this strategy do not have to share the burden of computing, which demands more resources, making it computationally efficient for them.In this project Random Forest (RF), Naive Bayes (NB) and Decision Tree (DT) Models are used. 
